@@ -21,7 +21,7 @@ Learning and practice with Big Data technologies:
 
 * 🔲 Задание 1 — [SQL](./1-3_mysql_jupyter), [Решение](decisions/Task%201/MySQL.sql)
 
-* 🔲 Задание 2 — 
+* 🔲 Задание 2 — [Python + SQL](./1-3_mysql_jupyter), [Решение](decisions/Task%202/Python+SQL.ipynb)
 * 🔲 Задание 3 — 
 * 🔲 Задание 4 — 
 * 🔲 Задание 5 — 
