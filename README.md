@@ -19,7 +19,8 @@ Learning and practice with Big Data technologies:
 
 Ниже будет список заданий с ссылками на соответствующие папки/решения:
 
-* 🔲 Задание 1 — [SQL](./1-3_mysql_jupyter)
+* 🔲 Задание 1 — [SQL](./1-3_mysql_jupyter), [Решение](decisions/Task%201/MySQL.sql)
+
 * 🔲 Задание 2 — 
 * 🔲 Задание 3 — 
 * 🔲 Задание 4 — 
