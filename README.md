@@ -19,13 +19,13 @@ Learning and practice with Big Data technologies:
 
 Ниже будет список заданий с ссылками на соответствующие папки/решения:
 
-* 🔲 Задание 1 — [SQL](./1-3_mysql_jupyter), [Решение](./decisions/Task%201/MySQL.sql)
+* 🔲 Задание 1 — [SQL](./1-4_mysql_jupyter), [Решение](./decisions/Task%201/MySQL.sql)
 
-* 🔲 Задание 2 — [Python + SQL](./1-3_mysql_jupyter), [Решение](./decisions/Task%202/Python+SQL.ipynb)
+* 🔲 Задание 2 — [Python + SQL](./1-4_mysql_jupyter), [Решение](./decisions/Task%202/Python+SQL.ipynb)
 
-* 🔲 Задание 3 — [Pandas](./1-3_mysql_jupyter), [Решение](./decisions/Task%203/Pandas.ipynb)
+* 🔲 Задание 3 — [Pandas](./1-4_mysql_jupyter), [Решение](./decisions/Task%203/Pandas.ipynb)
 
-* 🔲 Задание 4 — 
+* 🔲 Задание 4 — [Pandas+SQL](./1-4_mysql_jupyter), [Решение](./decisions/Task%204/Pandas+SQL.ipynb)
 
 * 🔲 Задание 5 — 
 
