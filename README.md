@@ -27,7 +27,7 @@ Learning and practice with Big Data technologies:
 
 * 🔲 Задание 4 — [Pandas+SQL](./1-4_mysql_jupyter), [Решение](./decisions/Task%204/Pandas+SQL.ipynb)
 
-* 🔲 Задание 5 — 
+* 🔲 Задание 5 — [ClickHouse](./5_clickhouse), [Решение](./decisions/Task%205/ClickHouseSQL.sql)
 
 * 🔲 Задание 6 — 
 
