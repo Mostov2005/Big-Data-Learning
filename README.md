@@ -29,7 +29,7 @@ Learning and practice with Big Data technologies:
 
 * 🔲 Задание 5 — [ClickHouse](./5_clickhouse), [Решение](./decisions/Task%205/ClickHouseSQL.sql)
 
-* 🔲 Задание 6 — 
+* 🔲 Задание 6 — [MongoDB](./6_mongodb), [Решение](./decisions/Task%206/mongodb.md)
 
 * 🔲 Задание 7 — 
 
