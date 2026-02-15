@@ -33,7 +33,7 @@ Learning and practice with Big Data technologies:
 
 * 🔲 Задание 7 — [HDFS](./7-9_hadoop), [Решение](./decisions/Task%207/Работа%20с%20HDFS%20-%20отчёт.docx)
 
-* 🔲 Задание 8 — 
+* 🔲 Задание 8 — [MapReduce](./7-9_hadoop), [Решение](./decisions/Task%208/Работа%20с%20MapReduce%20-%20отчёт.docx)
 
 * 🔲 Задание 9 — 
 
