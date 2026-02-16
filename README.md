@@ -35,7 +35,7 @@ Learning and practice with Big Data technologies:
 
 * 🔲 Задание 8 — [MapReduce](./7-9_hadoop), [Решение](./decisions/Task%208/Работа%20с%20MapReduce%20-%20отчёт.docx)
 
-* 🔲 Задание 9 — 
+* 🔲 Задание 9 — [Hive](./7-9_hadoop), [Решение](./decisions/Task%209/Работа%20с%20Hive%20-%20отчёт.docx)
 
 * 🔲 Задание 10 — 
 
