@@ -37,7 +37,7 @@ Learning and practice with Big Data technologies:
 
 * 🔲 Задание 9 — [Hive](./7-9_hadoop), [Решение](./decisions/Task%209/Работа%20с%20Hive%20-%20отчёт.docx)
 
-* 🔲 Задание 10 — 
+* 🔲 Задание 10 — [PySparkLocal](./10_pyspark_local), [Решение](./decisions/Task%2010/PySparkLocal.ipynb)
 
 * 🔲 Задание 11 — 
 
