@@ -39,7 +39,7 @@ Learning and practice with Big Data technologies:
 
 * 🔲 Задание 10 — [PySparkLocal](./10_pyspark_local), [Решение](./decisions/Task%2010/PySparkLocal.ipynb)
 
-* 🔲 Задание 11 — 
+* 🔲 Задание 11 — [SparkRDD](./11_spark), [Решение](./decisions/Task%2011)
 
 
 Также отедльно папка с дублированием решений — [decisions](./decisions)
